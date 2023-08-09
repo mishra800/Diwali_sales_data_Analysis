@@ -1,6 +1,10 @@
-# Diwali_sales_data_Analysis
-1.Introduction of project
-diwali sales data sets are taken 
+# Diwali_sales_data_Analysis using python 
+1.Introduction of project---diwali sales data sets are taken and performes EDA operation
+python Libiaries are used 
+numpy
+pandas
+matplotlib 
+seaborn
 2. 🔍 Data Gathering &
 Cleaning: 
 I imported the CSV file and performed various activities such as applying filters, removing duplicates, fixing errors, and transforming the data into an easily analyzable format.
